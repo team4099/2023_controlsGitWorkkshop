@@ -1,6 +1,7 @@
 print("This python file is in the main branch.")
 print("With git, try to:")
 print("- clone this repository onto your system")
+print("- navigate to and run this file")
 print("- make a branch")
 print("- add a new file to that branch")
 print("- push the changes back to github with a meaningful commit message")
