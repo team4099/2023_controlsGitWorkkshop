@@ -1,0 +1,8 @@
+System.out.println("This java file is in the main branch.")
+System.out.println("With git, try to:")
+System.out.println("- clone this repository onto your system")
+System.out.println("- navigate this file")
+System.out.println("- make a branch")
+System.out.println("- add a new file to that branch")
+System.out.println("- push the changes back to github with a meaningful commit message")
+System.out.println("- try doing the same thing with github desktop")
